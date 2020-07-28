@@ -1,6 +1,5 @@
 # flutter_vsc
-
-A new Flutter project.
+This project is about an application with a counter. It has three buttons, one in charge of adding to the counter, another to subtract and the last one resets the counter to 0.
 
 ## Getting Started
 
